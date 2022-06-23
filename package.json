@@ -1,0 +1,7 @@
+{
+  "name": "rabbitmq-nestjs-tests",
+  "dependencies": {},
+  "scripts": {
+    "dev": "docker compose up -d && pnpm -r dev"
+  }
+}

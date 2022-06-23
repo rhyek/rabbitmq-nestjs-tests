@@ -1,0 +1,8 @@
+POST http://localhost:6000/create-todo
+content-type: application/json
+
+{
+  "todo": {
+    "description": "hello!"
+  }
+}
